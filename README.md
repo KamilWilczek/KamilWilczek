@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamilWilczek
-- 👀 I’m interested in Data Science, Machine Learning, Blockchain, Algotrading and Python
-- 🌱 I’m currently learning aglotrading
+- 👀 I’m interested in Data Science, Machine Learning, Blockchain, Algotrading
+- 🌱 I’m currently usign Python, R, JavaScript/React
 - 💞️ I’m looking to collaborate on anything corelated with what im interested in
 - 📫 How to reach me kamilwilczek@wp.pl
 
